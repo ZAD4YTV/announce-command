@@ -11,12 +11,12 @@
 
 ```sh
 cd resources/
-git clone https://github.com/zad4y-fivem-scripts/announce-command [local]/announce-command
+git clone https://github.com/ZAD4YTV/announce-command [local]/announce-command
 ```
 
 #### Manualy
 
-- Download <https://codeload.github.com/zad4y-fivem-scripts/announce-command/zip/main>
+- Download <https://codeload.github.com/ZAD4YTV/announce-command/zip/main>
 - Put it in the `[local]` repository
 
 ### Instalation
@@ -28,4 +28,4 @@ git clone https://github.com/zad4y-fivem-scripts/announce-command [local]/announ
 ##### License
 
 - GNU License GPL V3.0
-- Read the license in this URL: <https://github.com/zad4y-fivem-scripts/announce-command/blob/main/LICENSE>
+- Read the license in this URL: <https://github.com/ZAD4YTV/announce-command/blob/main/LICENSE>
