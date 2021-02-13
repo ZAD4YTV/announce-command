@@ -28,4 +28,4 @@ git clone https://github.com/ZAD4YTV/announce-command [local]/announce-command
 ##### License
 
 - GNU License GPL V3.0
-- Read the license in this URL: <https://github.com/ZAD4YTV/announce-command/blob/main/LICENSE>
+- Read the license [here]<https://github.com/ZAD4YTV/announce-command/blob/main/LICENSE>
